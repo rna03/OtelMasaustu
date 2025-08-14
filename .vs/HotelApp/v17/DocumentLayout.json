@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rana\\source\\repos\\HotelApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|c:\\users\\rana\\source\\repos\\hotelapp\\hotelapp\\ucroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\ucroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|C:\\Users\\Rana\\source\\repos\\HotelApp\\hotelapp\\ucroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\ucroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|c:\\users\\rana\\source\\repos\\hotelapp\\hotelapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|C:\\Users\\Rana\\source\\repos\\HotelApp\\hotelapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|c:\\users\\rana\\source\\repos\\hotelapp\\hotelapp\\ucmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\ucmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|C:\\Users\\Rana\\source\\repos\\HotelApp\\hotelapp\\ucmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\ucmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|c:\\users\\rana\\source\\repos\\hotelapp\\hotelapp\\ucpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\ucpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|c:\\users\\rana\\source\\repos\\hotelapp\\hotelapp\\ucreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\ucreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|C:\\Users\\Rana\\source\\repos\\HotelApp\\hotelapp\\ucreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\ucreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|C:\\Users\\Rana\\source\\repos\\HotelApp\\hotelapp\\ucpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\ucpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|c:\\users\\rana\\source\\repos\\hotelapp\\hotelapp\\ucreservation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\ucreservation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|c:\\users\\rana\\source\\repos\\hotelapp\\hotelapp\\ucpersonel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\ucpersonel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|c:\\users\\rana\\source\\repos\\hotelapp\\hotelapp\\ucpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\ucpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|C:\\Users\\Rana\\source\\repos\\HotelApp\\hotelapp\\ucpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\ucpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|c:\\users\\rana\\source\\repos\\hotelapp\\hotelapp\\ucpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\ucpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|C:\\Users\\Rana\\source\\repos\\HotelApp\\hotelapp\\ucpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\ucpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|c:\\users\\rana\\source\\repos\\hotelapp\\hotelapp\\ucmusteri.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\ucmusteri.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|C:\\Users\\Rana\\source\\repos\\HotelApp\\hotelapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|c:\\users\\rana\\source\\repos\\hotelapp\\hotelapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|c:\\users\\rana\\source\\repos\\hotelapp\\hotelapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|c:\\users\\rana\\source\\repos\\hotelapp\\hotelapp\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C6F6F3-C123-486E-B33B-D5BC3094E01A}|HotelApp\\HotelApp.csproj|solutionrelative:hotelapp\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UCPersonel.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCPersonel.cs",
+              "RelativeDocumentMoniker": "HotelApp\\UCPersonel.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCPersonel.cs",
+              "RelativeToolTip": "HotelApp\\UCPersonel.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAAALsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:15:58.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UcReservation.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UcReservation.cs",
+              "RelativeDocumentMoniker": "HotelApp\\UcReservation.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UcReservation.cs",
+              "RelativeToolTip": "HotelApp\\UcReservation.cs",
+              "ViewState": "AgIAAJUBAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T13:55:57.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UCMusteri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCMusteri.cs",
+              "RelativeDocumentMoniker": "HotelApp\\UCMusteri.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCMusteri.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HotelApp\\UCMusteri.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:23:15.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UCMusteri.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCMusteri.cs",
+              "RelativeDocumentMoniker": "HotelApp\\UCMusteri.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCMusteri.cs",
+              "RelativeToolTip": "HotelApp\\UCMusteri.cs",
+              "ViewState": "AgIAADEBAAAAAAAAAAAAAIMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:23:17.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\Login.cs",
+              "RelativeDocumentMoniker": "HotelApp\\Login.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\Login.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HotelApp\\Login.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:31:36.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\Login.cs",
+              "RelativeDocumentMoniker": "HotelApp\\Login.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\Login.cs",
+              "RelativeToolTip": "HotelApp\\Login.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:31:38.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UCRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCRoom.cs",
+              "RelativeDocumentMoniker": "HotelApp\\UCRoom.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCRoom.cs [Design]",
+              "RelativeToolTip": "HotelApp\\UCRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T14:31:48.935Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UCRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCRoom.cs",
+              "RelativeDocumentMoniker": "HotelApp\\UCRoom.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCRoom.cs",
+              "RelativeToolTip": "HotelApp\\UCRoom.cs",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAAAFsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:19:56.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UcReservation.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UcReservation.cs",
+              "RelativeDocumentMoniker": "HotelApp\\UcReservation.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UcReservation.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HotelApp\\UcReservation.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T10:56:45.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UCPersonel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCPersonel.cs",
+              "RelativeDocumentMoniker": "HotelApp\\UCPersonel.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCPersonel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HotelApp\\UCPersonel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:43:56.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UcReservation.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UcReservation.Designer.cs",
+              "RelativeDocumentMoniker": "HotelApp\\UcReservation.Designer.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UcReservation.Designer.cs",
+              "RelativeToolTip": "HotelApp\\UcReservation.Designer.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T23:58:57.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UCPersonel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCPersonel.Designer.cs",
+              "RelativeDocumentMoniker": "HotelApp\\UCPersonel.Designer.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCPersonel.Designer.cs",
+              "RelativeToolTip": "HotelApp\\UCPersonel.Designer.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAwKkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:39:01.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UCPayments.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCPayments.cs",
+              "RelativeDocumentMoniker": "HotelApp\\UCPayments.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCPayments.cs",
+              "RelativeToolTip": "HotelApp\\UCPayments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T18:48:54.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UCPayments.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCPayments.cs",
+              "RelativeDocumentMoniker": "HotelApp\\UCPayments.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCPayments.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HotelApp\\UCPayments.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:22:18.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UCPayment.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCPayment.cs",
+              "RelativeDocumentMoniker": "HotelApp\\UCPayment.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCPayment.cs",
+              "RelativeToolTip": "HotelApp\\UCPayment.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T19:12:23.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UCPayment.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCPayment.cs",
+              "RelativeDocumentMoniker": "HotelApp\\UCPayment.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCPayment.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HotelApp\\UCPayment.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T19:12:12.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UCMusteri.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCMusteri.Designer.cs",
+              "RelativeDocumentMoniker": "HotelApp\\UCMusteri.Designer.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\UCMusteri.Designer.cs",
+              "RelativeToolTip": "HotelApp\\UCMusteri.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwF0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:42:16.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "HotelApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HotelApp\\MainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:29:35.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "HotelApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\MainForm.cs",
+              "RelativeToolTip": "HotelApp\\MainForm.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAzwFUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:29:36.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\Program.cs",
+              "RelativeDocumentMoniker": "HotelApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\Program.cs",
+              "RelativeToolTip": "HotelApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:47:43.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\DbHelper.cs",
+              "RelativeDocumentMoniker": "HotelApp\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\Rana\\source\\repos\\HotelApp\\HotelApp\\DbHelper.cs",
+              "RelativeToolTip": "HotelApp\\DbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:23:07.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
